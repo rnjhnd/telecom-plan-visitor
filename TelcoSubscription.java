@@ -1,6 +1,6 @@
 public interface TelcoSubscription {
     String accept(UsagePromo promo);
-    String accept(UnliCallOffer offer);
+    String accept(UnliCallsTextOffer offer);
     String getTelcoName();
     double getPromoPrice();
     int getDataAllowance();
