@@ -1,4 +1,4 @@
-# Lab-Seatwork-3-Visitor-Design-Pattern
+#  Telecom Subscription Plan Analyzer
 
 Imagine you are looking for a new mobile plan for your smartphone. Three major telecommunication providers are offering enticing deals: Smart, Globe, and Dito.
 
