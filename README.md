@@ -24,8 +24,7 @@ This project implements the **Visitor Design Pattern** with the following compon
 - **Maintainability**: Clean, well-structured code that's easy to understand and modify
 
 ## 📊 UML Class Diagram
-
-![Screenshot 2025-03-05 144942](https://github.com/user-attachments/assets/b9460668-77dd-4bcf-8d35-902caa510e4c)
+<img width="964" height="575" alt="UML Class Diagram" src="https://github.com/user-attachments/assets/14bbcc23-869a-4d69-89ae-937bd8c842e2" />
 
 The following diagram illustrates:
 - The architecture of the Telecom Plan Visitor
