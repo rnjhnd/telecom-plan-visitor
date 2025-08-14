@@ -1,4 +1,4 @@
-# Telecom Plan Visitor
+#  Telecom Subscription Plan Analyzer
 
 A Java implementation of the **Visitor Design Pattern** for analyzing and comparing telecom subscription plans. This project demonstrates how to use the visitor pattern to perform different operations on telecom objects without modifying their core structure.
 
